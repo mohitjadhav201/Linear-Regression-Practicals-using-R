@@ -1,7 +1,4 @@
 # Linear Regression Practicals using R
-
-![Linear Regression](linear_regression_image.png)
-
 Welcome to the "Linear Regression Practicals using R" repository! This repository contains a collection of practical examples and resources related to linear regression analysis using the R programming language.
 
 ## About Linear Regression
